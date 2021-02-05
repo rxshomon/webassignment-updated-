@@ -1,0 +1,68 @@
+nav {
+    font-family: 'Pacifico';
+    font-size: 27px;    
+}
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background-color: #30d5c8;
+    padding: 15px 2%;
+}
+.features{
+    margin-right: 30px;
+}
+.pricing{
+    margin-right: 30px;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.container{
+    text-align: center;
+}
+.cards{
+    margin: 0;
+    text-align: center;
+}
+col{
+    text-align: center;
+    margin: 0;
+}
+.col-contacts{
+    text-align: center;
+    text-decoration: none;
+}
+.featuresfont{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #fcd1d1;
+}
+.pricingfont{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Pacifico';
+    font-size: 30px;
+    background-color: #d3e0dc;
+}
+.box{
+    background-color: #aee1e1;
+}
+.col-contacts{
+    margin-top: 40px;
+}
+.price{
+    width: auto;
+    height: 720px;  
+    background-color: #d3e0dc;
+}
+.linkfonts{
+    color: black;
+    text-decoration: none;
+}
+.ff{
+    margin-top: 50px;
+    height: 500px;
+}
